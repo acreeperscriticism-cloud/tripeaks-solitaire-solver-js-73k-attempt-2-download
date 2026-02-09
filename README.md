@@ -1,5 +1,7 @@
 # Tripeaks Solitaire Solver 73k
 
+I am somewhat new to github, so I am creating a fork of someone else's thing in an attempt to download it. this is not mine. below is the original README.
+
 A brute force solver for Microsoft Tripeaks solitaire written in javascript. The solver can provide a "best moves" list (the first set of moves found that removes the most cards from the board) for unsolvable games, and games-in-progress (when you don't already know all the cards).
 
 A live demo is available at [tripeaks.73k.us](https://tripeaks.73k.us/) where you can input cards and get solutions. The same files published there are available in this repo's `dist` directory.
